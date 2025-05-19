@@ -27,8 +27,6 @@ I combine econometric rigor with advanced machine learning techniques to analyze
 - **Econometrics & Machine Learning**: Projects combining causal inference methodologies with ML algorithms.
 - **Data Visualization & Analysis**: Real-world datasets to deliver actionable economic insights.
 
-(👉 Feel free to link your top repositories or projects here)
-
 ---
 
 ### 📫 Connect with me:
