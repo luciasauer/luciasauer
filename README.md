@@ -30,8 +30,8 @@ I combine econometric rigor with advanced machine learning techniques to analyze
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn](your-linkedin-url)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/luciasauer/)
+- [Email](lucia.sauer@bse.eu)
 
 ---
 
